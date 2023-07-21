@@ -1,1 +1,2 @@
-![image](https://github.com/jcapona/jcapona/blob/master/trex-chrome.gif)
+![](https://raw.githubusercontent.com/jcapona/github-stats/master/generated/overview.svg#gh-light-mode-only)  ![](https://raw.githubusercontent.com/jcapona/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
